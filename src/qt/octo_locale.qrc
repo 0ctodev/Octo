@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/octo_bg.qm</file>
+        <file alias="ca">locale/octo_ca.qm</file>
+        <file alias="cs">locale/octo_cs.qm</file>
+        <file alias="da">locale/octo_da.qm</file>
+        <file alias="de">locale/octo_de.qm</file>
+        <file alias="en">locale/octo_en.qm</file>
+        <file alias="en_US">locale/octo_en_US.qm</file>
+        <file alias="es">locale/octo_es.qm</file>
+        <file alias="fi">locale/octo_fi.qm</file>
+        <file alias="fr_FR">locale/octo_fr_FR.qm</file>
+        <file alias="it">locale/octo_it.qm</file>
+        <file alias="ja">locale/octo_ja.qm</file>
+        <file alias="ko_KR">locale/octo_ko_KR.qm</file>
+        <file alias="nl">locale/octo_nl.qm</file>
+        <file alias="pl">locale/octo_pl.qm</file>
+        <file alias="pt">locale/octo_pt.qm</file>
+        <file alias="pt_BR">locale/octo_pt_BR.qm</file>
+        <file alias="ro_RO">locale/octo_ro_RO.qm</file>
+        <file alias="ru">locale/octo_ru.qm</file>
+        <file alias="sk">locale/octo_sk.qm</file>
+        <file alias="sv">locale/octo_sv.qm</file>
+        <file alias="tr">locale/octo_tr.qm</file>
+        <file alias="uk">locale/octo_uk.qm</file>
+        <file alias="zh_CN">locale/octo_zh_CN.qm</file>
+        <file alias="zh_TW">locale/octo_zh_TW.qm</file>
+    </qresource>
+</RCC>
